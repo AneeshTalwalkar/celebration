@@ -1,0 +1,6 @@
+Hello world my name is Aneesh and I like maths!
+This is another test line of text for this project!
+Roses are red violets r blue, I misspeled that, did you too?
+Okay this is just another test to make sure the code is working fine!
+The quick brown fox jumped over the rest of the sentence that I forgot.
+This is a very delightful typing test which tells u ur wrds per min.
