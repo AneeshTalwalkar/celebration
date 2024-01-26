@@ -21,8 +21,8 @@ WIDTH, HEIGHT = 1200,650
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Gravitational Slingshot Effect")
 
-PLANET_MASS = 100
-SHIP_MASS = 5
+PLANET_MASS = 10
+SHIP_MASS = 10000
 G = 5
 FPS = 60
 PLANET_SIZE = 50#(RADIUS)
